@@ -6,3 +6,6 @@ This is my submission for the ML challenge by the name in the title of the repos
 
 <b>You can access the Problem Statement from here: </b><br>
 https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-world-water-day/problems/
+
+<b>Score without scaling :</b> As mentioned in the picture above
+<b>Score with scaling :</b> 51.10130
